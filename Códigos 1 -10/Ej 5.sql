@@ -1,0 +1,2 @@
+SELECT nombre, correo, fecha_nacimiento FROM clientes
+ORDER BY nombre ASC;
